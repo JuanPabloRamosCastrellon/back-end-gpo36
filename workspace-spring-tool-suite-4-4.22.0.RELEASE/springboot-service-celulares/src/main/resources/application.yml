@@ -3,7 +3,10 @@ server:
 spring:
   application:
     name: service-celulares
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
 eureka:
   client:
-    service-url:
+    service_url:
       defaultZone: http://localhost:8761/eureka
