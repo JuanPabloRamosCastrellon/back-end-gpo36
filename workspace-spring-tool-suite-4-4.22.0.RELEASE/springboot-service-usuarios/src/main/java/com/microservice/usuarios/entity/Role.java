@@ -12,10 +12,11 @@ import javax.persistence.Table;
 @Entity
 @Table(name="roles")
 public class Role implements Serializable {
+
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = -2150589189384202506L;
+	private static final long serialVersionUID = -7019834661589028720L;
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)

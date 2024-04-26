@@ -9648,3 +9648,137 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-04-25 22:54:53,942 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-04-25 22:54:53,942 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2024-04-25 22:54:53,942 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-25 23:08:21,910 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:08:21,911 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-04-25 23:08:21,912 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-25 23:08:21,918 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:08:21,924 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:08:21,924 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-04-25 23:08:21,924 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-25 23:27:13,723 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:27:13,723 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-04-25 23:27:13,724 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-25 23:27:13,733 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:27:13,737 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:27:13,737 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-04-25 23:27:13,737 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-25 23:37:23,205 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:37:23,206 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-04-25 23:37:23,206 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-25 23:37:23,211 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:37:23,213 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:37:23,213 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-04-25 23:37:23,213 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-25 23:39:39,584 [Worker-54: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice.usuarios:springboot-service-usuarios:1.0.0-SNAPSHOT @ C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\pom.xml.
+2024-04-25 23:39:40,796 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:39:40,799 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:39:40,799 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:39:40,803 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:39:40,804 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-25 23:39:41,327 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-25 23:39:41,695 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice.usuarios:springboot-service-usuarios:1.0.0-SNAPSHOT @ C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\pom.xml.
+2024-04-25 23:39:42,880 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-service-usuarios/src/main/java
+2024-04-25 23:39:42,882 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-service-usuarios/src/main/resources
+2024-04-25 23:39:42,884 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-service-usuarios/src/main/resources
+2024-04-25 23:39:42,885 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-service-usuarios/src/test/java
+2024-04-25 23:39:42,886 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-service-usuarios/src/test/resources
+2024-04-25 23:39:43,444 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-04-25 23:39:43,849 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:39:43,850 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-25 23:39:43,858 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:39:43,862 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:39:43,863 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-25 23:44:32,221 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:44:32,222 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-25 23:44:32,225 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-25 23:44:32,229 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-25 23:44:32,229 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:01:17,139 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:01:17,140 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:01:17,143 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:01:17,149 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:01:17,149 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:04:30,349 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:04:30,350 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:04:30,353 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:04:30,357 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:04:30,357 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:05:08,040 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:05:08,041 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:05:08,044 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:05:08,048 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:05:08,049 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:08:13,172 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:08:13,174 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:08:13,178 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:08:13,182 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:08:13,183 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:13:02,333 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice.usuarios:springboot-service-usuarios:1.0.0-SNAPSHOT @ C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\pom.xml.
+2024-04-26 00:13:02,953 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.microservice.celulares:springboot-service-celulares:jar:1.0.0-SNAPSHOT is missing, no dependency information available
+2024-04-26 00:13:03,744 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:13:03,747 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:13:03,748 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:13:03,752 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:13:03,753 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:13:04,540 [Worker-77: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.microservice.celulares:springboot-service-celulares:1.0.0-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.microservice.celulares:springboot-service-celulares:jar:sources:1.0.0-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-26 00:13:07,382 [Worker-77: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice.usuarios:springboot-service-usuarios:1.0.0-SNAPSHOT @ C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\pom.xml.
+2024-04-26 00:13:08,686 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:13:08,689 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:13:08,690 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:13:08,697 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:13:08,697 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:13:09,947 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:13:09,947 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:13:09,956 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:13:09,961 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:13:09,961 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:14:08,281 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice.usuarios:springboot-service-usuarios:1.0.0-SNAPSHOT @ C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\pom.xml.
+2024-04-26 00:14:09,558 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:14:09,571 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:14:09,573 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:14:09,577 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:14:09,577 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:15:09,170 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice.usuarios:springboot-service-usuarios:1.0.0-SNAPSHOT @ C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\pom.xml.
+2024-04-26 00:15:10,609 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:15:10,612 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:15:10,613 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:15:10,619 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:15:10,619 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:18:50,347 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:18:50,348 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:18:50,361 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:18:50,365 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:18:50,365 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:19:36,893 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:19:36,895 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:19:36,898 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:19:36,904 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:19:36,904 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:22:20,853 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:22:20,855 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:22:20,858 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:22:20,863 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:22:20,863 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
+2024-04-26 00:22:23,834 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:22:23,837 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-26 00:22:23,840 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-26 00:22:23,845 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-26 00:22:23,845 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\workspace-spring-tool-suite-4-4.22.0.RELEASE\springboot-service-usuarios\src\test\resources
