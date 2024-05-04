@@ -128,7 +128,6 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 1913139925.index
 1695650263.index
 1815531908.index
-730821755.index
 1967235076.index
 1134541805.index
 4258606818.index
