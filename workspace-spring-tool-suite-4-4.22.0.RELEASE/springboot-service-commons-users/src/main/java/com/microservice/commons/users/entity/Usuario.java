@@ -23,7 +23,6 @@ public class Usuario implements Serializable {
 	 * 
 	 */
 	private static final long serialVersionUID = 5704262248542868874L;
-	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;

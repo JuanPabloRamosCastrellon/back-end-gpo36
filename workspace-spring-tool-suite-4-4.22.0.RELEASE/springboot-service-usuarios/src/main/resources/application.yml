@@ -3,7 +3,6 @@ spring:
     name: servicio-usuarios
 server:
   port: ${PORT:0}
-
 eureka:
   client:
     service-url:
@@ -16,4 +15,3 @@ logging:
     org:
       hibernate:
         SQL: debug
-  

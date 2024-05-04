@@ -1,6 +1,6 @@
 spring:
   application:
-    name: service-zuul-service
+    name: servicio-zuul-server
 server:
   port: 8090
 eureka:
@@ -13,13 +13,13 @@ zuul:
       service-id: service-store
       path: /api/tienda/**
     celulares:
-      service-id: service-celulares
-      path: /api/phone/**
+     service-id: service-celulares
+     path: /api/phone/**    
     users:
-      service-id: servicio-usuarios
-      path: /api/us/**
+     service-id: servicio-usuarios
+     path: /api/us/**
 ribbon:
-  ConnectTimeout: 3000
+  ConnnectTimeout: 3000
   ReadTimeout: 10000
 hystrix:
   command:
@@ -28,4 +28,3 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 40000
-
