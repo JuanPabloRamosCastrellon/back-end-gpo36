@@ -8,7 +8,6 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 1412344607.index
 3404472161.index
 3360466876.index
-45717655.index
 1734897399.index
 135272852.index
 3520680937.index
@@ -37,7 +36,6 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 377544774.index
 207757537.index
 162668156.index
-4178130678.index
 649997021.index
 418314158.index
 2051659359.index
@@ -138,6 +136,7 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 2465716553.index
 1857199632.index
 14225566.index
+1160696936.index
 2752402906.index
 567372114.index
 3033204380.index
@@ -205,7 +204,6 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 2285080703.index
 4269147564.index
 72971003.index
-3042108930.index
 2752261689.index
 2969929684.index
 671034558.index
@@ -218,7 +216,6 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 274278758.index
 1492622975.index
 1578351490.index
-1649808876.index
 135688707.index
 579373871.index
 2280814870.index
@@ -254,12 +251,12 @@ INDEX VERSION 1.134+C:\Users\Juan Pablo\Desktop\backend-repo\back-end-gpo36\work
 2997355510.index
 2318432507.index
 2167501692.index
+3183196080.index
 2634798762.index
 4256604403.index
 3043592999.index
 2525785926.index
 2347221342.index
-2349430695.index
 1166353374.index
 69337538.index
 4195245473.index
